@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain_huggingface
+langchain_groq
+langchain_core
+langchain_community
+dotenv
+chromadb
+python-multipart
+sentence-transformers
+pymupdf 
+google-search-results
